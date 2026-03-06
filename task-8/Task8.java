@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class EighthTask {
+public class Task8 {
     public static void main(String[] args) {
         int a1[] = {1, 4, 6, 13, 22};
         int a2[] = {1, 4, 6, 13, 21};

@@ -1,4 +1,4 @@
-public class ThirdTask {
+public class Task3 {
     public static void main(String[] args) {
         int a = 120;
         System.out.println(a += 1); // 121

@@ -1,4 +1,4 @@
-public class TaskEleven {
+public class Task11 {
     public static void main(String[] args) {
         A.printVars(); // вызов через имя класса
 

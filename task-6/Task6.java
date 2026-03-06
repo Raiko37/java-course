@@ -1,4 +1,4 @@
-public class SixthTask {
+public class Task6 {
     public static void main(String[] args) {
         byte b = 3;
         short s = 1;

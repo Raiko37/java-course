@@ -1,4 +1,4 @@
-public class SecondTask {
+public class Task2 {
     public static void main(String[] args) {
         // автоматическая инициализация нулями
         byte defByte;       // 0

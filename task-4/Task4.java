@@ -1,5 +1,5 @@
 import java.lang.*;
-public class FourthTask {
+public class Task4 {
     public static void main(String[] args) {
     // decode
     Integer decExample = Integer.decode("10"); // 10 в десятичной

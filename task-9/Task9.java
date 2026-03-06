@@ -1,4 +1,4 @@
-public class TaskNine {
+public class Task9 {
     public static void main(String[] args) {
         Summator test = new Summator(42);
 

@@ -1,4 +1,4 @@
-public class Task_13 {
+public class Task13 {
     public static void main(String[] args) {
         Wrapper<Double> a = new Wrapper<>();
 

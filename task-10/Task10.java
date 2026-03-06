@@ -1,4 +1,4 @@
-public class TaskTen {
+public class Task10 {
     public static void main(String[] args) {
         Animal animal = new Animal();
         Cat cat = new Cat(); 

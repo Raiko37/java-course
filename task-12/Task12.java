@@ -1,4 +1,4 @@
-public class TaskTwelve {
+public class Task12 {
     public static void main(String[] args) {
         Ab test1 = new Ab(); // будет инициализированно конструктором и станет = 23
 
